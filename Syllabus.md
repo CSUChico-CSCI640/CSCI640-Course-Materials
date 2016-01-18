@@ -72,7 +72,8 @@ I will routinely post the grading to Moodle. If you are not happy with a grade, 
 * Exam 20% of course grade (1 midterm)
 * Individual Programming Projects 30% of course grade
 * Required Readings 10% of course grade
-* Group Project 40% of course grade
+* Paper Presentation 5% of course grade
+* Group Project 35% of course grade
 * Lecture Attendance can improve/lower your grade (see above)
 
 ###Project Grading Meetings

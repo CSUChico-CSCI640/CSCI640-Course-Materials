@@ -1,8 +1,6 @@
 <h2>Weekly Readings for CSCI640</h2>
 <br>
-<p>Students taking this course as CSCI640 will also need to read and answer
-questions about the following seminal OS papers. Otherwise CSCI640 is the same
-as CSCI540 and has all the other same assignments.</p>
+<p>Students will be required to read the following papers and answer questions about them. There will be additional readings through the semester; however, these seminal papers are the ones that will have surveys in addition to course participation.</p>
 <br>
 <table>
 	<tr>
