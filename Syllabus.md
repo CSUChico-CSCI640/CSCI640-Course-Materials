@@ -74,6 +74,7 @@ I will routinely post the grading to Moodle. If you are not happy with a grade, 
 * Required Readings 10% of course grade
 * Paper Presentation 5% of course grade (If these don't happen will be folded into project grade)
 * Group Project 35% of course grade
+* Lecture Participation (+/- 5% of course grade) a large aspect of this course's lectures will be group discussions about the research papers assigned, recommended, etc. related to current or seminal OS research. These may be submitted by me or fellow students as such I want to encourage you to participate. Failing to participate will result in a detriment to your grade and going above/beyond participation can lead to extra credit on your overall grade. 
 * Lecture Attendance can improve/lower your grade (see above)
 
 ###Project Grading Meetings
