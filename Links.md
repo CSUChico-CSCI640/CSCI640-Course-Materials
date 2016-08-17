@@ -14,6 +14,7 @@
 
 * [Atom Editor](https://atom.io/) - Free "hackable" text editor from GitHub. Should be installed on the lab machines as well.
 
+* [General Academic Email Etiquette](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.h9ipxkg5z) - I'm fine with you calling me by my first name, but if you are going to use a salutation, make sure it's a correct one.
 
 ##[Moodle](https://moodle.csuchico.edu)
 I'll be using a Moodle page for this course this semester. Moodle will provide a mechanism for occasional quiz questions related to the material in the course. It will also be used to hold the grades for the assignments. A link to Piazza is on the class Moodle page.
