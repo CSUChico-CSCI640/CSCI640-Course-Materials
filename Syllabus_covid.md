@@ -71,6 +71,14 @@ If you are attending class in person you need to do the following:
 
 If you are feeling sick, have a fever, etc. Attend class via Zoom as I'll be hosting the course via Zoom all semester as well. 
 
+## Campus COVID-19 Face Mask Requirement
+
+In compliance with the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/COVID-19/Guidance-for-Face-Coverings_06-18-2020.pdf) state mandate, Chico State requires that all students, staff, and faculty, wear a face covering in all indoor spaces on campus, including classrooms, labs, studios, and offices, and outside when physical distancing is not possible. Accordingly, all students are required to wear a face mask covering the nose and mouth in order to participate in this course. Failure to comply with this requirement will result in a referral to Student Conduct, Rights, and Responsibilities and disciplinary action being taken against you by the University.
+
+Individuals unable to wear a face covering due to a medical condition should contact the [Accessibility Resource Center](https://www.csuchico.edu/arc/) by phone at (530) 898-5959 or by email at arcdept@csuchico.edu.
+
+For more information about the state mandate, please visit the [Chico State COVID-19 News & Information](https://www.csuchico.edu/coronavirus/) page.
+
 ## Grading
 
 Grades for this course will be relative. The students that do the best work will get an A, the students that don't do as well get a B, and so on. I will likely not be following at traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve as if I applied blindly could result in grades actually being lowered if everyone is doing very well in the course.
