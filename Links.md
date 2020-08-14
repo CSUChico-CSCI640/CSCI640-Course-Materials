@@ -1,6 +1,6 @@
-#CSCI640 links
+# CSCI640 links
 
-* [Google Drive Shared Folder](https://drive.google.com/folderview?id=0BxCHPj-PjPvFWURqelVTWGtfNmc&usp=sharing) - Shared folder of lecture slides, and other materials.
+* [Google Drive Shared Folder](https://drive.google.com/drive/folders/1nu6vhfa8O3H9MmNH_ARujeZdM2Xn3BtA?usp=sharing) - Shared folder of lecture slides, and other materials.
 
 * [GitHub](https://github.com) - Version Control & Open Source Code Repository
 
