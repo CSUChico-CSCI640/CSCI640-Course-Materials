@@ -9,7 +9,7 @@ For every assigned reading you need to fill out this [form](https://forms.gle/tY
 ## Readings
 
 | Reading Number |Description | Reading Question |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 | 1              | Rashid, Richard, et al.  "Mach: a foundation for open systems [operating systems]."  Workstation Operating Systems, 1989.,  Proceedings of the Second Workshop on. IEEE, 1989.                                           | [MachOS](https://forms.gle/tYy9mHVakufE3bpa8) | 
 | 2              | Ritchie, Dennis M., and Ken Thompson.  "The UNIX time-sharing system."  Communications of the ACM 26.1 (1983): 84-89.  | [Unix Time-Sharing](https://forms.gle/tYy9mHVakufE3bpa8) |
 | 3              | Kronenberg, Nancy P., Henry M. Levy, and William D. Strecker.  "VAXcluster: a closely-coupled distributed system."  ACM Transactions on Computer Systems (TOCS) 4.2 (1986): 130-146.  | [VAX/VMS](https://forms.gle/tYy9mHVakufE3bpa8) | 
