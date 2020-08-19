@@ -8,6 +8,8 @@ For every assigned reading you need to fill out this [form](https://forms.gle/tY
 
 ## Readings
 
+The readings will be shared on Piazza when they are assigned. 
+
 | Reading Number |Description | Reading Question |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 | 1              | Rashid, Richard, et al.  "Mach: a foundation for open systems [operating systems]."  Workstation Operating Systems, 1989.,  Proceedings of the Second Workshop on. IEEE, 1989.                                           | [MachOS](https://forms.gle/tYy9mHVakufE3bpa8) | 
