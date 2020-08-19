@@ -4,7 +4,7 @@ Students will be required to read the following papers and answer questions abou
 
 ## Survey
 
-For every assigned reading you need to fill out this [form](https://forms.gle/tYy9mHVakufE3bpa8):
+For every assigned reading you need to fill out this [form](https://forms.gle/tYy9mHVakufE3bpa8).
 
 ## Readings
 
