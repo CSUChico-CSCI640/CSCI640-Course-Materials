@@ -53,7 +53,7 @@ The books are optional as the majority of the course will focus on research and 
 
 ## Attendance
 
-Attendance of lectures is not required, but it can help your grade and is highly recommended.
+Attendance of lectures is not required, but it can help your grade and is highly recommended. If you see the grading for this course attending and participating in the classes where we have a group discussion could play a significant part in your overall grade. 
 
 Attendance may improve your grade. For example, if your grade is a high B+ and you have attended most/all the lectures I may raise your grade to a A-.
 
@@ -90,7 +90,7 @@ I will routinely post the grading to Moodle. If you are not happy with a grade, 
 * Moodle Quiz Questions 5% of course grade (If these don't happen will be folded into project grade)
 * Individual Programming Projects 50% of course grade
 * Required Readings 10% of course grade
-* Group Project 35% of course grade
+* Project 35% of course grade
 * Lecture Participation (+/- 5% of course grade) a large aspect of this course's lectures will be group discussions about the research papers assigned, recommended, etc. related to current or seminal OS research. These may be submitted by me or fellow students as such I want to encourage you to participate. Failing to participate will result in a detriment to your grade and going above/beyond participation can lead to extra credit on your overall grade. 
 * Lecture Attendance can improve/lower your grade (see above)
 
