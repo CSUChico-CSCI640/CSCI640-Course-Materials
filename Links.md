@@ -4,6 +4,8 @@
 
 * [GitHub](https://github.com) - Version Control & Open Source Code Repository
 
+* [Turnin](https://turnin.ecst.csuchico.edu/) - Primary method for submitting assignments. 
+
 * [BitBucket](https://bitbucket.org/) - Version Control Host for GIT or MERCURIAL (Education Accounts are Free)
 
 * [Ubuntu](http://www.ubuntu.com/) - Distro of Linux I'll personally be using.
