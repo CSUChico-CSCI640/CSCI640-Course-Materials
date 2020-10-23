@@ -21,7 +21,6 @@ The readings will be shared on Piazza when they are assigned.
 | 7              | Birrell, Andrew D., and Bruce Jay Nelson.  "Implementing remote procedure calls."  ACM Transactions on Computer Systems (TOCS) 2.1 (1984): 39-59.  | [RPC](https://forms.gle/tYy9mHVakufE3bpa8) | 
 | 8              | Bensoussan, Andre, Charles T. Clingen,  and Robert C. Daley.  "The Multics virtual memory: concepts and design."  Communications of the ACM 15.5 (1972): 308-318.  | [Multics](https://forms.gle/tYy9mHVakufE3bpa8) | 
 | 9              | McKusick, Marshall K., et al. "A fast file system for UNIX."  ACM Transactions on Computer Systems (TOCS) 2.3 (1984): 181-197.  | [FFS](https://forms.gle/tYy9mHVakufE3bpa8) | 
-
 | 10             | Engler, D., M. F. Kaashoek, and O'TOOLE JR., J.  Exokernel: An operating system architecture for application-level resource management."  Proceedings of the 15th ACM Symposium on Operating System Principles (SOSP95). | [Exokernel](https://forms.gle/tYy9mHVakufE3bpa8) | 
 | 11             | Goldberg, Ian, et al.  "A secure environment for untrusted helper applications: Confining the wily hacker."  Proceedings of the 1996 USENIX Security Symposium. Vol. 19. 1996.  | [Janus](https://forms.gle/tYy9mHVakufE3bpa8) | 
 | 12             | Chen, Peter M., et al.  "RAID: High-performance, reliable secondary storage."  ACM Computing Surveys (CSUR) 26.2 (1994): 145-185.  | [RAID](https://forms.gle/tYy9mHVakufE3bpa8) | 
