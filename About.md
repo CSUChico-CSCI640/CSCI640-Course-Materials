@@ -1,4 +1,5 @@
 The course catalogue describes this course as follows:
 
-Prerequisites: CSCI 340 and classified graduate standing.
-In-depth study of operating systems concepts including results from recent research. Topics may include processes, threads, virtual memory, file systems, distributed computing, scheduling, protection, and communication protocols. Students may be required to implement operating system projects. 3 hours seminar.
+Prerequisites: CSCI-311, or CSCI 605 and CSCI211; and classified graduate standing.
+
+The course offers a practical exploration of topics in scalable computing. Students gain hands-on experience building things to solve a multitude of topics in scalable computing. Students should learn how to solve computationally complex problems involving big data. Topics include but are not limited to single-node and multi-node parallelism, threading, and coprocessor programming. 3 hours seminar.

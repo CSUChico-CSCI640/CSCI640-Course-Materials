@@ -2,56 +2,40 @@
 
 ## Prerequisite
 
-Grade of C- or better in CSCI 340. (or approved equivalent, check with your advisor)
+CSCI-311, or CSCI 605 and CSCI211; and classified graduate standing.
 
 Classified graduate standing.
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
-## ECST Computing Accounts
-
-You will need an ECST (Engineering College) computer account potentially in order to do the assignments.
-
-If you have never received an ECST account, go to accounts.ecst.csuchico.edu and sign up.
-
-If you have ever received an ECST account, it should still exist. Make sure it works.
-
-Use the putty remote terminal program to log onto jaguar.ecst.csuchico.edu to from your computer to make sure you account is working.
-
-You can use accounts.ecst.csuchico.edu	to reset your password (see Elbert Chan if you have problems).
-
 
 ## Course Accounts
 
-In addition to an ECST account, you need an account in the CSCI assignment turn-in system.
+You need an account in the CSCI assignment turn-in system. See Canvas instructions for signing in and registering for [https://inginious.csuchico.edu](https://inginious.csuchico.edu).
 
-Go to [https://turnin.ecst.csuchico.edu](https://turnin.ecst.csuchico.edu "Tyson's Turnin") and create a new account.
+Enroll in CSCI 640, make sure you enroll in the correct section.
 
-Once you create an account, log on and enroll in CSCI 640, make sure you enroll in the correct section.
-
-I WILL DROP YOU FROM THE CLASS IF YOU DO NOT CREATE THIS ACCOUNT
-
-You will use this system to turn in your programming and lab assignments.
+You will use this system to turn in some of your programming and lab assignments.
 
 ## Textbook
 
-If you like books and usually use your textbooks, then buy the book. If you never open textbooks, then don't buy it but two of the assignments are taken from this book of materials so may be helpful. 
+If you like books and usually use your textbooks, then buy this book as it's a good reference. If you never open textbooks, then don't buy it but one of the assignments is derived from this book of materials so may be helpful.
 
 *Computer Systems: A Programmer's Perspective 3rd edition*
 by Randal E. Bryant, David R. O'Hallaron
 (2015) Pearson Pub Co: ISBN-10: 013409266X
 
-We're adopting the new edition of the book as they've tried to simplify the binary material and have switched to focusing on 64bit assembly in the book; however, you should be able to get the same content from the last version of the book as I'll be teaching the course this fall:
+Or alternatively the older edition.
 
 *Computer Systems: A Programmer's Perspective 2nd edition*
 by Randal E. Bryant, David R. O'Hallaron
 (2010) Addison-Wesley Pub Co: ISBN-10: 0136108040
 
-The book is optional as the majority of the course will focus on research and research papers; however, for the individual projects this book will be extremely helpful.
+The book is optional as the majority of the course will focus on research and research papers; however, for the individual projects this book will be extremely helpful. The book also focuses on C and this course will not be C focused.
 
 ## Attendance
 
-Attendance of lectures is not required, but it can help your grade and is highly recommended.
+Attendance of all lectures is not required, but it can help your grade and is highly recommended.
 
 Attendance may improve your grade. For example, if your grade is a high B+ and you have attended most/all the lectures I may raise your grade to a A-.
 
@@ -59,43 +43,45 @@ Missing class can make the projects and exams especially difficult. If I verball
 
 If you regularly skip class I will not answer questions on the material you missed.
 
-Attendance of labs is not required; however, this will be where we will walk through examples of the material covered in lecture and tools for your assignments. As such, you will likely not do well on the labs and exams that will rely on this material if you miss the labs.
-
 ## Grading
 
 Grades for this course will be relative. The students that do the best work will get an A, the students that don't do as well get a B, and so on. I will likely not be following at traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve as if I applied blindly could result in grades actually being lowered if everyone is doing very well in the course.
 
-I will routinely post the grading to Moodle. If you are not happy with a grade, talk to me immediately. If you do not talk to me within a week of the posting of a grade, I will assume you think the grade is fair and accurate, and you will lose your right to dispute the grade.
+I will routinely post the grading to Canvas. If you are not happy with a grade, talk to me immediately. If you do not talk to me within a week of the posting of a grade, I will assume you think the grade is fair and accurate, and you will lose your right to dispute the grade.
 
 ### Grade Category Percentages:
 
-* Exam 20% of course grade (1 midterm)
-* Individual Programming Projects 30% of course grade
+* Individual Projects 50% of course grade
 * Required Readings 10% of course grade
 * Paper Presentation 5% of course grade (If these don't happen will be folded into project grade)
 * Group Project 35% of course grade
-* Lecture Participation (+/- 5% of course grade) a large aspect of this course's lectures will be group discussions about the research papers assigned, recommended, etc. related to current or seminal OS research. These may be submitted by me or fellow students as such I want to encourage you to participate. Failing to participate will result in a detriment to your grade and going above/beyond participation can lead to extra credit on your overall grade. 
+* Lecture Participation (+/- 5% of course grade) a large aspect of this course's lectures will be group discussions about the research papers assigned, recommended, etc. related to current or seminal OS research. These may be submitted by me or fellow students as such I want to encourage you to participate. Failing to participate will result in a detriment to your grade and going above/beyond participation can lead to extra credit on your overall grade.
 * Lecture Attendance can improve/lower your grade (see above)
 
 ### Project Grading Meetings
 
 I will be testing your project submissions for code plagiarism and any of you who fail these tests will be required to meet with me for detailed interviews about the assignments. If is apparent you didn't do any of the work I reserve the right to treat your submission as a violation of the Honesty Policy.
 
+### Project Grading Quiz
+
+For any non-inquiry based assignment 30% of the assignment grade will come from an in class quiz where you will need to answer questions about how aspects of your code works. This won't rule you out from further one-on-one grading meetings if I am concerned that you actually did your work.
+
 
 
 ## Programming Assignments
 
-There will 3 assignments that will be done individually.  
+There will 3 assignments that will be done individually.
 
 ### Late Assignments:
+
 * Assignments turned in 1-24 hours after the due date will lose 15%
 * Assignments will NOT be accepted more that 24 hours after the due date.
 
-##Getting Help/E-mail
+## Getting Help/E-mail
 
 As this is a upper division course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
 
-We will be using Piazza for a class discussion board. You'll be invited via email; however there a link to the discussion board on the links page as well. General questions about the course, clarifications for an assignment, etc should be asked here so that other students in the course can benefit and I don't need to answer the same question multiple times. If you email me a question that should have been posted to the discussion board I'll ask you to ask it on the discussion board before I'll answer it.
+We will be using Piazza for a class discussion board. You'll be invited via email; however there a link to the discussion board on Canvas well. General questions about the course, clarifications for an assignment, etc should be asked here so that other students in the course can benefit and I don't need to answer the same question multiple times. If you email me a question that should have been posted to the discussion board I'll ask you to ask it on the discussion board before I'll answer it.
 
 Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put 'CSCI640' in the subject so it will be filtered correctly. ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
 
@@ -123,9 +109,9 @@ The first time you cheat, you will get a 0 on the test or assignment. The second
 
 
 
->I expect all students to understand and follow the University?s honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
+> I expect all students to understand and follow the University?s honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
 
->The bottom line is that you must do all the assignments on your own. Turning in code that anyone else wrote is cheating and will result in failing the course. Here are some examples of cheating:
+> The bottom line is that you must do all the assignments on your own. Turning in code that anyone else wrote is cheating and will result in failing the course. Here are some examples of cheating:
 
 > * copying code from another student
 > * copying code from a book
@@ -140,6 +126,7 @@ The first time you cheat, you will get a 0 on the test or assignment. The second
 > * giving your laptop that contains your program to another student
 > * getting so much help on an assignment that you are no longer doing the assignment (this can come from one helper or many helpers)
 > * crowdsourcing your code
+> * ChatGPT or use of other LLMs
 > * the list can go on...
 
 
@@ -170,8 +157,8 @@ As an instructor, one of my responsibilities is to help create a safe learning e
 
 ## Safe Zone Statement
 
-I am part of the Safe Zone Ally community network of trained Chico State faculty/staff/students who are available to listen and support you in a safe and confidential manner. As a Safe Zone Ally, I can help you connect with resources on campus to address problems you may face that interfere with your academic and social success on campus as it relates to issues surrounding sexual orientation/gender identity. My goal is to help you be successful and to maintain a safe and equitable campus. 
+I am part of the Safe Zone Ally community network of trained Chico State faculty/staff/students who are available to listen and support you in a safe and confidential manner. As a Safe Zone Ally, I can help you connect with resources on campus to address problems you may face that interfere with your academic and social success on campus as it relates to issues surrounding sexual orientation/gender identity. My goal is to help you be successful and to maintain a safe and equitable campus.
 
 ## LGBTQ Equality Statement
 
-I am firmly committed to diversity and equality in all areas of campus life, including specifically members of the LGBTQ community. In this class I will work to promote an anti-discriminatory environment where everyone feels safe and welcome. I recognize that discrimination can be direct or indirect and take place at both institutional and personal levels. I believe that such discrimination is unacceptable and I am committed to providing equality of opportunity for all by eliminating any and all discrimination, harassment, bullying, or victimization. The success of this policy relies on the support and understanding of everyone in this class. We all have a responsibility not to be offensive to each other, or to participate in, or condone harassment or discrimination of any kind. 
+I am firmly committed to diversity and equality in all areas of campus life, including specifically members of the LGBTQ community. In this class I will work to promote an anti-discriminatory environment where everyone feels safe and welcome. I recognize that discrimination can be direct or indirect and take place at both institutional and personal levels. I believe that such discrimination is unacceptable and I am committed to providing equality of opportunity for all by eliminating any and all discrimination, harassment, bullying, or victimization. The success of this policy relies on the support and understanding of everyone in this class. We all have a responsibility not to be offensive to each other, or to participate in, or condone harassment or discrimination of any kind.
