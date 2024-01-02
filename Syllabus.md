@@ -25,91 +25,85 @@ If you like books and usually use your textbooks, then buy this book as it's a g
 by Randal E. Bryant, David R. O'Hallaron
 (2015) Pearson Pub Co: ISBN-10: 013409266X
 
-Or alternatively the older edition.
+Or alternatively, the older edition.
 
 *Computer Systems: A Programmer's Perspective 2nd edition*
 by Randal E. Bryant, David R. O'Hallaron
 (2010) Addison-Wesley Pub Co: ISBN-10: 0136108040
 
-The book is optional as the majority of the course will focus on research and research papers; however, for the individual projects this book will be extremely helpful. The book also focuses on C and this course will not be C focused.
+The book is optional as most of the course will focus on research and research papers; however, this book will be extremely helpful for individual projects. The book also focuses on C; this course will not be C-focused.
 
 ## Attendance
 
 Attendance of all lectures is not required, but it can help your grade and is highly recommended.
 
-Attendance may improve your grade. For example, if your grade is a high B+ and you have attended most/all the lectures I may raise your grade to a A-.
+Attendance may improve your grade. For example, if your grade is a high B+ and you have attended most/all the lectures, I may raise your grade to a A-.
 
-Missing class can make the projects and exams especially difficult. If I verbally change the requirements of a project during lecture, you are responsible for meeting the new requirements. If you miss a class make sure you get notes from another student.
+Missing class can make the projects and exams especially difficult. If I verbally change the requirements of a project during a lecture, you are responsible for meeting the new requirements. If you miss a class, make sure you get notes from another student.
 
-If you regularly skip class I will not answer questions on the material you missed.
+If you regularly skip class, I will not answer questions on the material you missed.
 
 ## Grading
 
-Grades for this course will be relative. The students that do the best work will get an A, the students that don't do as well get a B, and so on. I will likely not be following at traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve as if I applied blindly could result in grades actually being lowered if everyone is doing very well in the course.
+Grades for this course will be relative. The students who do the best work will get an A, those who don't do as well get a B, and so on. I will likely not be following traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve as if I applied blindly, which could result in grades actually being lowered if everyone is doing very well in the course.
 
-I will routinely post the grading to Canvas. If you are not happy with a grade, talk to me immediately. If you do not talk to me within a week of the posting of a grade, I will assume you think the grade is fair and accurate, and you will lose your right to dispute the grade.
+I will routinely post the grading to Canvas. If you are not happy with a grade, please reach out to me right away. If you do not talk to me within a week of posting a grade, I will assume you think the grade is fair and accurate, and you will lose your right to dispute the grade.
 
 ### Grade Category Percentages:
 
-* Individual Projects 50% of course grade
-* Required Readings 10% of course grade
-* Paper Presentation 5% of course grade (If these don't happen will be folded into project grade)
-* Group Project 35% of course grade
-* Lecture Participation (+/- 5% of course grade) a large aspect of this course's lectures will be group discussions about the research papers assigned, recommended, etc. related to current or seminal OS research. These may be submitted by me or fellow students as such I want to encourage you to participate. Failing to participate will result in a detriment to your grade and going above/beyond participation can lead to extra credit on your overall grade.
+* Required Readings 10% of the course grade
+* Paper Presentation 10% of the course grade (If these don't happen, will be folded into project grade)
+* Threading Assignment 10% of the course grade
+* Four Inquiry Projects 70% of the course grade
+* Lecture Participation (+/- 5% of course grade) A large aspect of this course's lectures will be group discussions about the research papers assigned, recommended, etc., related to current or seminal OS research. These may be submitted by me or fellow students. As such, I would like to encourage you to participate. Failing to participate will result in a detriment to your grade, and going above/beyond participation can lead to extra credit on your overall grade.
 * Lecture Attendance can improve/lower your grade (see above)
 
 ### Project Grading Meetings
 
-I will be testing your project submissions for code plagiarism and any of you who fail these tests will be required to meet with me for detailed interviews about the assignments. If is apparent you didn't do any of the work I reserve the right to treat your submission as a violation of the Honesty Policy.
+I will be testing your project submissions for code plagiarism, and any of you who fail these tests will be required to meet with me for detailed interviews about the assignments. If it is apparent you didn't do any of the work, I reserve the right to treat your submission as violating the Honesty Policy.
 
 ### Project Grading Quiz
 
-For any non-inquiry based assignment 30% of the assignment grade will come from an in class quiz where you will need to answer questions about how aspects of your code works. This won't rule you out from further one-on-one grading meetings if I am concerned that you actually did your work.
+For any non-inquiry-based assignment, 30% of the assignment grade will come from an in-class quiz where you must answer questions about how aspects of your code work. This won't deter you from any more one-on-one grading meetings if I am concerned that you did your work.
 
-
-
-## Programming Assignments
-
-There will 3 assignments that will be done individually.
 
 ### Late Assignments:
 
 * Assignments turned in 1-24 hours after the due date will lose 15%
-* Assignments will NOT be accepted more that 24 hours after the due date.
+* Assignments will NOT be accepted more than 24 hours after the due date.
 
 ## Getting Help/E-mail
 
-As this is a upper division course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
+As this is an upper-division/graduate course, you'll likely want to use my office hours for help as there are unlikely tutors or other such resources.
 
-We will be using Piazza for a class discussion board. You'll be invited via email; however there a link to the discussion board on Canvas well. General questions about the course, clarifications for an assignment, etc should be asked here so that other students in the course can benefit and I don't need to answer the same question multiple times. If you email me a question that should have been posted to the discussion board I'll ask you to ask it on the discussion board before I'll answer it.
+We will be using Piazza for a class discussion board. You'll be invited via email; however there a link to the discussion board on Canvas well. General questions about the course, clarifications for an assignment, etc, should be asked here so that other students in the course can benefit, and I don't need to answer the same question multiple times. If you email me a question that should have been posted to the discussion board, I'll ask you to ask it on the discussion board before I answer it.
 
-Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put 'CSCI640' in the subject so it will be filtered correctly. ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
+Additionally, you can email me directly with any specific questions; the distinction would help with your code or assignment that would be unique to you, and sharing with the class on the discussion board would be considered cheating. Ensure you put 'CSCI640' in the subject so it will be filtered correctly. ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED, so if you send me an email without a subject, do not expect a response, as I will not open it or respond to it.
 
-I'll be making it a habit to respond immediately to emails received between 9am-5pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9am, so try to make sure to email me prior to 5pm.
+I'll be making it a habit to respond immediately to emails received between 9 am and 5 pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9 am, so try to email me before 5 pm.
 
-I will routinely communicate with the class via announcements on the Piazza board. Make sure the email you use on Piazza is one you routinely check in case there is an important announcement.
+I will routinely communicate with the class via announcements on the Piazza board. Make sure the email you use on Piazza is one you routinely check in case of an important announcement.
 
 If you do not sign up for the Piazza account, you will not receive the class e-mails and may miss important information about the class.
 
-If you drop the class, you should be able to un-enroll from the Piazza discussion board to stop receiving messages. Let me know if you drop the class and still get e-mail.
+If you drop the class, you should be able to unenroll from the Piazza discussion board to stop receiving messages. Let me know if you dropped the class and still got an e-mail.
 
 ## Responsibilities
 
 Taken from Professor Tyson Henry's 211 syllabus as it's a good statement concerning responsibilities for any given course:
 
-I am responsible for providing useful and interesting (and I hope entertaining) lectures, meaningful and challenging assignments, challenging exams, abundant help, encouragement, advice, and most anything else I can do to help you learn the material.
+I am responsible for providing useful and interesting (and I hope entertaining) lectures, meaningful and challenging assignments, challenging exams, abundant help, encouragement, advice, and almost anything else I can do to help you learn the material.
 
-Students are responsible for dedicating the time and effort necessary to learn the material. The amounts of time and effort required varies drastically. It may take you two hours/week to get an A in this class. It may take you 20 hours/week to get a C. It is your responsibility to figure out how much time you require and to invest that amount of time appropriate for you.
+Students are responsible for dedicating the time and effort necessary to learn the material. The amount of time and effort required varies drastically. Getting an A in this class may take you two hours/week. It may take you 20 hours/week to get a C. It is your responsibility to figure out how much time you need and to invest that amount of time that's appropriate for you.
 
-You will not learn the material if you don't put in the time and effort required. If you don't learn the material you will not be prepared for the subsequent classes and you will probably be very disappointed with your grade. While I will feel bad that I had to assign you a bad grade, if you don't put in the time necessary for success I will be forced to give you a low grade. The University requires that I assign grades based on your performance.
+You will not learn the material if you don't put in the time and effort required. If you don't learn the material, you will not be prepared for the subsequent classes, and you will probably be very disappointed with your grade. While I will feel bad that I had to assign you a bad grade, if you don't put in the time necessary for success, I will be forced to give you a low grade. The University requires that I assign grades based on your performance.
 
 ## Honesty
 
-The first time you cheat, you will get a 0 on the test or assignment. The second time you cheat you will fail the class. It is not a good idea to cheat in my class. I will be following Tyson Henry's Cheating Policy:
+You will get a 0 on the test or assignment the first time you cheat. The second time you cheat, you will fail the class. It is not a good idea to cheat in my class. I will be following Tyson Henry's Cheating Policy:
 
 
-
-> I expect all students to understand and follow the University?s honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
+> I expect all students to understand and follow the [University's honesty policies](https://www.csuchico.edu/pres/em/2018/18-011.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
 
 > The bottom line is that you must do all the assignments on your own. Turning in code that anyone else wrote is cheating and will result in failing the course. Here are some examples of cheating:
 
