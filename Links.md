@@ -1,6 +1,6 @@
 # CSCI640 links
 
-* [One Drive Shared Folder]() - Shared folder of lecture slides, and other materials.
+* [One Drive Shared Folder](https://csuchico-my.sharepoint.com/:f:/g/personal/bcdixon_csuchico_edu/EtcvJIG6ZIdKpR4JIFHTh0ABcnjYyo9zuSQFvhpblGqkZg?e=9pq1xT) - Shared folder of lecture slides, and other materials.
 
 * [GitHub](https://github.com) - Version Control & Open Source Code Repository
 
