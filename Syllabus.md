@@ -136,6 +136,9 @@ You will get a 0 on the test or assignment the first time you cheat. The second 
 
 > I reserve the right to catch cheaters after the end of the semester. Just because a cheater makes it to the end of the semester without being caught does not mean he or she has gotten away with it. Since I keep assignments it is possible for me to catch cheaters after the fact. For example, assume your friend George gives you his old program and you turn it in. Next semester George might give his program to someone else and I could catch it. Now I will look through all old programs to see who else George has given his program to. One of my advantages is that I can use programs to look for all instances of an assignment over the past several years. And while I might not catch everyone, I am always amazed at the people I do catch.
 
+### Large Language Model Usage
+Unless explicitly indicated, any suspected use of a LLM will result in a 0. They are not allowed for this course otherwise. 
+
 ## Religious Holidays
 
 I will work with students so this class and its assignments, exams, and activities do not interfere with religious holidays. However, you must notify me ahead of time so we can make appropriate arrangements.
