@@ -76,17 +76,17 @@ For any non-inquiry-based assignment, 30% of the assignment grade will come from
 
 As this is an upper-division/graduate course, you'll likely want to use my office hours for help as there are unlikely tutors or other such resources.
 
-We will be using Piazza for a class discussion board. You'll be invited via email; however there a link to the discussion board on Canvas well. General questions about the course, clarifications for an assignment, etc, should be asked here so that other students in the course can benefit, and I don't need to answer the same question multiple times. If you email me a question that should have been posted to the discussion board, I'll ask you to ask it on the discussion board before I answer it.
+We will be using EdStem for a class discussion board. You'll be invited via email; however there a link to the discussion board on Canvas well. General questions about the course, clarifications for an assignment, etc, should be asked here so that other students in the course can benefit, and I don't need to answer the same question multiple times. If you email me a question that should have been posted to the discussion board, I'll ask you to ask it on the discussion board before I answer it.
 
 Additionally, you can email me directly with any specific questions; the distinction would help with your code or assignment that would be unique to you, and sharing with the class on the discussion board would be considered cheating. Ensure you put 'CSCI640' in the subject so it will be filtered correctly. ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED, so if you send me an email without a subject, do not expect a response, as I will not open it or respond to it.
 
 I'll be making it a habit to respond immediately to emails received between 9 am and 5 pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9 am, so try to email me before 5 pm.
 
-I will routinely communicate with the class via announcements on the Piazza board. Make sure the email you use on Piazza is one you routinely check in case of an important announcement.
+I will routinely communicate with the class via announcements on the EdStem board. Make sure the email you use on EdStem is one you routinely check in case of an important announcement.
 
-If you do not sign up for the Piazza account, you will not receive the class e-mails and may miss important information about the class.
+If you do not sign up for the EdStem account, you will not receive the class e-mails and may miss important information about the class.
 
-If you drop the class, you should be able to unenroll from the Piazza discussion board to stop receiving messages. Let me know if you dropped the class and still got an e-mail.
+If you drop the class, you should be able to unenroll from the EdStem discussion board to stop receiving messages. Let me know if you dropped the class and still got an e-mail.
 
 ## Responsibilities
 
